@@ -1,0 +1,12 @@
+THIS DIRECTORY IS FOR FASTER-RCNN TRAINING
+
+dataloader_faster_rcnn.py
+- dataloader and dataset class for faster-rcnn
+
+faster_rcnn_trainval.py
+- script to run training
+- training and validation loss per epoch are saved here
+
+detect_faster_rcnn.py
+- uses model in eval mode
+- runs a trained model on the test set and saves the results
