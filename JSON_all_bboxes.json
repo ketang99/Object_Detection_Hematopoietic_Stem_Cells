@@ -1,0 +1,482 @@
+{
+    "Image 0": {
+        "bbox0_1": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                45,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_2": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                45,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_3": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                45,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_4": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                45,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_1": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                951,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_2": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                951,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_3": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                951,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_4": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                951,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "channel_id": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "int64"
+        },
+        "channel_names": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "object"
+        },
+        "extmax_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        },
+        "extmin_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        },
+        "filename": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                1
+            ],
+            "dtype": "|S62"
+        },
+        "imdims_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "int64"
+        },
+        "r_scaling": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [],
+            "dtype": "int64"
+        },
+        "resolution": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        }
+    },
+    "Image 1": {
+        "bbox0_1": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                1763,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_2": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                1763,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_3": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                1763,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_4": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                1763,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_1": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                71,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_2": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                71,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_3": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                71,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_4": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                71,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "channel_id": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "int64"
+        },
+        "channel_names": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "object"
+        },
+        "extmax_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        },
+        "extmin_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        },
+        "filename": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                1
+            ],
+            "dtype": "|S43"
+        },
+        "imdims_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "int64"
+        },
+        "r_scaling": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [],
+            "dtype": "int64"
+        },
+        "resolution": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        }
+    },
+    "Image 2": {
+        "bbox0_1": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                89,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_2": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                89,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_3": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                89,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_4": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                89,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_1": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                6992,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_2": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                6992,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_3": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                6992,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_4": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                6992,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "channel_id": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "int64"
+        },
+        "channel_names": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                2
+            ],
+            "dtype": "object"
+        },
+        "extmax_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        },
+        "extmin_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        },
+        "filename": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                1
+            ],
+            "dtype": "|S44"
+        },
+        "imdims_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "int64"
+        },
+        "r_scaling": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [],
+            "dtype": "int64"
+        },
+        "resolution": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        }
+    },
+    "Image 3": {
+        "bbox0_1": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                93,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_2": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                93,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_3": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                93,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox0_4": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                93,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_1": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3560,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_2": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3560,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_3": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3560,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "bbox1_4": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3560,
+                6
+            ],
+            "dtype": "int64"
+        },
+        "channel_id": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "int64"
+        },
+        "channel_names": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "object"
+        },
+        "extmax_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        },
+        "extmin_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        },
+        "filename": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                1
+            ],
+            "dtype": "|S44"
+        },
+        "imdims_zyx": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "int64"
+        },
+        "r_scaling": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [],
+            "dtype": "int64"
+        },
+        "resolution": {
+            "type": "<class 'h5py._hl.dataset.Dataset'>",
+            "shape": [
+                3
+            ],
+            "dtype": "float64"
+        }
+    }
+}
