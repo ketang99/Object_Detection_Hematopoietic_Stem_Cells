@@ -1,0 +1,15 @@
+THIS DIRECTORY IS FOR NODULENET TRAINING
+
+reg_functions.py
+- contains functions to register the bounding boxes to the correct spatial coords
+- function to generate crops
+
+split_data_get.py
+- functions to generate crops and do the train/test/val split (0.8/0.1/0.1)
+
+data_red_dsb_7R.py
+- file that contains the 3D dataset class
+
+ND_HLF.py
+- script for training NoduleNet
+- the variations are for different loss functions
